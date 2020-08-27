@@ -1,0 +1,7 @@
+.PlaceBettings__leftcontainer {
+  padding-left: 20px;
+}
+.PlaceBettings__buttons {
+  display: flex;
+  justify-content: center;
+}
